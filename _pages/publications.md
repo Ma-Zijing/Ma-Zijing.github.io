@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Journal Papers"
+title: "publications"
 permalink: /publications/
 author_profile: true
 ---
-
+# Journal Papers
 - **[TMC]** RF-Siamese: Approaching Accurate RFID Gesture Recognition With One Sample [<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io//_publications/RF-Siamese.pdf)  
 **Zijing Ma**, Shigeng Zhang, Jia Liu, Xuan Liu, Weiping Wang, Jianxin Wang, Song Guo   
 IEEE Transactions on Mobile Computing (TMC), 2022
@@ -23,3 +23,6 @@ Computer Science and Information Systems, 2020
 - **[WCNC 2020]** Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors [<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io/_publications/Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors.pdf)    
 **Zijing Ma**, Shuangjuan Li, Dong Huang   
 IEEE Wireless Communications and Networking Conference (WCNC) 2020
+- **[PAAP 2019]** Non-linear K-Barrier Coverage in Mobile Sensor Network.
+**Zijing Ma**, Shuangjuan Li, Longkun Guo, Guohua Wang
+Parallel Architectures, Algorithms and Programming: 10th International Symposium, PAAP 2019
