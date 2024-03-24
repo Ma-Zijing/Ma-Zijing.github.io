@@ -4,7 +4,8 @@ title: "publications"
 permalink: /publications/
 author_profile: true
 ---
-# Journal Papers
+
+## Journal Papers
 - **[TMC]** RF-Siamese: Approaching Accurate RFID Gesture Recognition With One Sample [<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io//_publications/RF-Siamese.pdf)  
 **Zijing Ma**, Shigeng Zhang, Jia Liu, Xuan Liu, Weiping Wang, Jianxin Wang, Song Guo   
 IEEE Transactions on Mobile Computing (TMC), 2022
@@ -18,7 +19,7 @@ IEEE Transactions on Mobile Computing (TMC), 2022
 **Zijing Ma**, Shuangjuan Li, Longkun Guo, Guohua Wang   
 Computer Science and Information Systems, 2020
   
-# Conference Papers
+## Conference Papers
 
 - **[WCNC 2020]** Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors [<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io/_publications/Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors.pdf)    
 **Zijing Ma**, Shuangjuan Li, Dong Huang   
