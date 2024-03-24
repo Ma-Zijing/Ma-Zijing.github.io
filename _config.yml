@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "mazijing.png"
-  name             : "Zijing Ma"
-  pronouns         : # example: "she/her"  
+#  name             : "Zijing Ma"
+#  pronouns         : # example: "she/her"
 #  bio              : "Short biography for the left-hand sidebar"
 #  location         : "Earth"
 #  employer         : "Red Brick University"
@@ -31,12 +31,12 @@ author:
   email            : "mazijingscau@hotmail.com"
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+#  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com.hk/citations?user=Fs5jIFoAAAAJ&hl=zh-CN"
+#  impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0003-4868-5750"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Zijing-Ma" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
