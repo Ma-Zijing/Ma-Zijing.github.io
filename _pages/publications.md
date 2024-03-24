@@ -17,7 +17,7 @@ IEEE Transactions on Mobile Computing (TMC), 2022
 - **[CSIS]** Energy-efficient non-linear k-barrier coverage in mobile sensor network [<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io/_publications/Energy-efficient non-linear k-barrier coverage in mobile sensor network.pdf)   
 **Zijing Ma**, Shuangjuan Li, Longkun Guo, Guohua Wang   
 Computer Science and Information Systems, 2020
- 
+  
 # Conference Papers
 
 - **[WCNC 2020]** Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors [<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io/_publications/Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors.pdf)    
