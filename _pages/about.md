@@ -30,7 +30,7 @@ My name is Zijing Ma (马子靖). I am currently working as a Big Data Developme
 - Wireless Sensing 
 - Mobile Computing 
 - Human-computer Interaction
-- Cybersecurity
+- IoT Security
 - Health Monitoring
 
 <!-- ## CV
