@@ -27,11 +27,11 @@ My name is Zijing Ma (马子靖). I am currently working as a Big Data Developme
 - Sep 2016 - Jun 2020: South China Agricultural University, BSc, Computer Science and Technology
 
 # Research Interests
-- wireless sensing 
-- mobile computing , and wireless sensor networks. 
-- human-computer interaction
-- cybersecurity
-- health monitoring
+- Wireless Sensing 
+- Mobile Computing 
+- Human-computer Interaction
+- Cybersecurity
+- Health Monitoring
 
 <!-- ## CV
 My latest CV is [here](https://ma-zijing.github.io/file/My_Curriculum_Vitae.pdf). -->
