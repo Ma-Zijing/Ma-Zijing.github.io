@@ -2,7 +2,7 @@
 
 permalink: /
 
-[//]: # (title: "")
+title: "BIO"
 
 author_profile: true
 
@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-## Bio
+[//]: # (## Bio)
 <!-- I am currently a big data development engineer in China Unicom Software Research Institute. I received my master degree at the School of Computer Science and Engineering at Central South University (CSU), advised by Professor [Shigeng Zhang](https://faculty.csu.edu.cn/zhangshigeng/en/index.htm). I received my bachlor degree in 2020 from South China Agricultural University (SCAU), where I was advised by Associate Professor Shuangjuan Li. -->
 
 My name is Zijing Ma (马子靖). I am currently working as a Big Data Development Engineer at China Unicom Software Research Institute. I earned my Master's degree from the School of Computer Science and Engineering at Central South University (CSU), under the guidance of Professor [Shigeng Zhang](https://faculty.csu.edu.cn/zhangshigeng/en/index.htm). Prior to that, I completed my Bachelor's degree in 2020 at South China Agricultural University (SCAU), where I was mentored by Associate Professor Shuangjuan Li.
@@ -22,7 +22,7 @@ My name is Zijing Ma (马子靖). I am currently working as a Big Data Developme
 <font color="Red">[Highlight]</font> I am looking for a PhD position to start in 2024 Spring/Fall!
 -->
 
-## Education
+# Education
 - Sep 2020 - Jun 2023: Central South University, MSc, Computer Science and Technology
 - Sep 2016 - Jun 2020: South China Agricultural University, BSc, Computer Science and Technology
 
