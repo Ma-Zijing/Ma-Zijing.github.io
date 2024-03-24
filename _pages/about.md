@@ -1,11 +1,18 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+[//]: # (---)
+
+[//]: # (permalink: /)
+
+[//]: # (title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites")
+
+[//]: # (author_profile: true)
+
+[//]: # (redirect_from: )
+
+[//]: # (  - /about/)
+
+[//]: # (  - /about.html)
+
+[//]: # (---)
 
 ## Bio
 <!-- I am currently a big data development engineer in China Unicom Software Research Institute. I received my master degree at the School of Computer Science and Engineering at Central South University (CSU), advised by Professor [Shigeng Zhang](https://faculty.csu.edu.cn/zhangshigeng/en/index.htm). I received my bachlor degree in 2020 from South China Agricultural University (SCAU), where I was advised by Associate Professor Shuangjuan Li. -->
