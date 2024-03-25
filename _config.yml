@@ -233,7 +233,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _services
   - scope:
       path: ""
       type: teaching
