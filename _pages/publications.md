@@ -18,7 +18,6 @@ IEEE Transactions on Mobile Computing (TMC), 2022 [<span style="color: #B22222;"
 - **[CSIS]** **Zijing Ma**, Shuangjuan Li, Longkun Guo, Guohua Wang, "Energy-efficient non-linear k-barrier coverage in mobile sensor network",
 Computer Science and Information Systems, 2020 [<span style="color: #B22222;">[PDF]</span>](../_publications/Energy-efficient non-linear k-barrier coverage in mobile sensor network.pdf)   
    
-
   
 ## Conference Papers
 - **[WCNC 2020]** **Zijing Ma**, Shuangjuan Li, Dong Huang, 
