@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Journal Papers
-- **[TMC]** RF-Siamese: Approaching Accurate RFID Gesture Recognition With One Sample [<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io//_publications/RF-Siamese.pdf)  
-**Zijing Ma**, Shigeng Zhang, Jia Liu, Xuan Liu, Weiping Wang, Jianxin Wang, Song Guo   
-IEEE Transactions on Mobile Computing (TMC), 2022
+- **[TMC]** **Zijing Ma**, Shigeng Zhang, Jia Liu, Xuan Liu, Weiping Wang, Jianxin Wang, Song Guo, "RF-Siamese: Approaching Accurate RFID Gesture Recognition With One Sample", IEEE Transactions on Mobile Computing (TMC), 2022[<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io//_publications/RF-Siamese.pdf)  
+   
+
 - **[TMC]** Real-time and Accurate Gesture Recognition with Commercial RFID Devices [<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io//_publications/Real-time_and_Accurate_Gesture_Recognition_with_Commercial_RFID_Devices.pdf)     
 Shigeng Zhang, **Zijing Ma**, Chengwei Yang, Xiaoyan Kui, Xuan Liu, Weiping Wang, Jianxin Wang, Song Guo  
 IEEE Transactions on Mobile Computing (TMC), 2022
