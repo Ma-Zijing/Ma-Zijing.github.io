@@ -7,5 +7,7 @@ permalink: /teaching/2094-Reviewer
 #date: 2014-01-01
 #location: "City, Country"
 ---
- 
-- IEEE Internet of Things Journal
+
+- Globecom
+- WASA
+- MSN

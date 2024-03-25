@@ -8,6 +8,4 @@ permalink: /teaching/2094-Reviewer
 #location: "City, Country"
 ---
  
-- Globecom
-- WASA
-- MSN
+- IEEE Internet of Things Journal
