@@ -1,6 +1,6 @@
 ---
 title: "Conference Reviewers"
-collection: teaching
+collection: talks
 type: "Talk"
 permalink: /teaching/2094-Reviewer
 #venue: "University 1, Department"
