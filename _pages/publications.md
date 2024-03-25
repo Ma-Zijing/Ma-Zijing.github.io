@@ -21,7 +21,6 @@ Computer Science and Information Systems, 2020 [<span style="color: #B22222;">[P
 
   
 ## Conference Papers
-
 - **[WCNC 2020]** **Zijing Ma**, Shuangjuan Li, Dong Huang, 
 "Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors", 
 IEEE Wireless Communications and Networking Conference (WCNC) 2020 [<span style="color: #B22222;">[PDF]</span>](../_publications/Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors.pdf)
