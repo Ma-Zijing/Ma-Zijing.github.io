@@ -1,5 +1,5 @@
 ---
-title: "Journal Reviewers"
+title: "Conference Reviewers"
 collection: teaching
 type: "Talk"
 permalink: /teaching/2094-Reviewer
@@ -8,4 +8,6 @@ permalink: /teaching/2094-Reviewer
 #location: "City, Country"
 ---
  
-- IEEE Internet of Things Journal
+- Globecom
+- WASA
+- MSN
