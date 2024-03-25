@@ -2,7 +2,7 @@
 title: ""
 collection: talks
 type: "Talk"
-permalink: /talks/2012-07-01-RF-Siamese
+permalink: /talks/2022-07-01-RF-Siamese
 #venue: "UC San Francisco, Department of Testing"
 #date: 2012-03-01
 #location: "San Francisco, California"
