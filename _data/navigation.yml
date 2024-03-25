@@ -1,4 +1,7 @@
 # main links links
+
+# 该文件决定顶部工具栏哪些页面会被展示
+
 main:
   - title: "Publications"
     url: /publications/
