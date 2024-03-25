@@ -1,7 +1,7 @@
 ---
 title: "Conference Reviewers"
 collection: teaching
-type: "Undergraduate course"
+type: "Talk"
 permalink: /teaching/2094-Reviewer
 #venue: "University 1, Department"
 #date: 2014-01-01
