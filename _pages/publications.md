@@ -8,18 +8,20 @@ author_profile: true
 ## Journal Papers
 - **[TMC]** **Zijing Ma**, Shigeng Zhang, Jia Liu, Xuan Liu, Weiping Wang, Jianxin Wang, Song Guo, 
 "RF-Siamese: Approaching Accurate RFID Gesture Recognition With One Sample", 
-IEEE Transactions on Mobile Computing (TMC), 2022[<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io//_publications/RF-Siamese.pdf)  
+IEEE Transactions on Mobile Computing (TMC), 2022 [<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io//_publications/RF-Siamese.pdf)  
+
+- **[TMC]** Shigeng Zhang, **Zijing Ma**, Chengwei Yang, Xiaoyan Kui, Xuan Liu, Weiping Wang, Jianxin Wang, Song Guo, 
+"Real-time and Accurate Gesture Recognition with Commercial RFID Devices", 
+IEEE Transactions on Mobile Computing (TMC), 2022 [<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io//_publications/Real-time_and_Accurate_Gesture_Recognition_with_Commercial_RFID_Devices.pdf)     
+
+- **[TMC]** Shigeng Zhang, **Zijing Ma**, Kaixuan Lu, Xuan Liu, Jia Liu, Song Guo, Albert Y Zomaya, Jian Zhang, Jianxin Wang,
+"Hearme: Accurate and real-time lip reading based on commercial rfid devices", 
+IEEE Transactions on Mobile Computing (TMC), 2022 [<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io//_publications/HearMe_Accurate_and_Real-time_Lip_Reading_based_on_Commercial_RFID_Devices.pdf)    
+
+- **[CSIS]** **Zijing Ma**, Shuangjuan Li, Longkun Guo, Guohua Wang, "Energy-efficient non-linear k-barrier coverage in mobile sensor network"
+Computer Science and Information Systems, 2020 [<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io/_publications/Energy-efficient non-linear k-barrier coverage in mobile sensor network.pdf)   
    
 
-- **[TMC]** Real-time and Accurate Gesture Recognition with Commercial RFID Devices [<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io//_publications/Real-time_and_Accurate_Gesture_Recognition_with_Commercial_RFID_Devices.pdf)     
-Shigeng Zhang, **Zijing Ma**, Chengwei Yang, Xiaoyan Kui, Xuan Liu, Weiping Wang, Jianxin Wang, Song Guo  
-IEEE Transactions on Mobile Computing (TMC), 2022
-- **[TMC]** Hearme: Accurate and real-time lip reading based on commercial rfid devices [<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io//_publications/HearMe_Accurate_and_Real-time_Lip_Reading_based_on_Commercial_RFID_Devices.pdf)    
-Shigeng Zhang, **Zijing Ma**, Kaixuan Lu, Xuan Liu, Jia Liu, Song Guo, Albert Y Zomaya, Jian Zhang, Jianxin Wang  
-IEEE Transactions on Mobile Computing (TMC), 2022  
-- **[CSIS]** Energy-efficient non-linear k-barrier coverage in mobile sensor network [<span style="color: #B22222;">[PDF]</span>](https://ma-zijing.github.io/_publications/Energy-efficient non-linear k-barrier coverage in mobile sensor network.pdf)   
-**Zijing Ma**, Shuangjuan Li, Longkun Guo, Guohua Wang   
-Computer Science and Information Systems, 2020
   
 ## Conference Papers
 
