@@ -2,7 +2,8 @@
 
 修改navigation.yml中 Projects的url /talks/ --> /projects/
 
-projects.html:  permalink修改为/projects；{% for post in site.talks reversed %}修改为{% for post in site.projects reversed %}
+projects.html:  permalink修改为/projects；
+{% for post in site.talks reversed %}修改为{% for post in site.projects reversed %}
 
 _config.yml :
   # _projects

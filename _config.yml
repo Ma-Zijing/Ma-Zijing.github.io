@@ -206,7 +206,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  awards:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -257,10 +257,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _awards
   - scope:
       path: ""
-      type: portfolio
+      type: awards
     values:
       layout: single
       author_profile: true
