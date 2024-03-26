@@ -216,6 +216,10 @@ collections:
 
 # Defaults
 # 修改页面名，这里也需要修改
+  # scope: 定义了适用范围，指定了路径为空（即根目录）且类型为 talks 的文件。
+  # layout: talk: 指定了使用名为 talk 的布局模板来呈现这些文件的内容。
+  # author_profile: 设置为 true，表示在页面中显示作者的个人资料。
+  # share: 设置为 true，表示允许分享该页面的内容。
 defaults:
   # _posts
   - scope:
