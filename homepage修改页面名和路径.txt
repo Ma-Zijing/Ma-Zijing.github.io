@@ -1,0 +1,22 @@
+修改项目名_talks --> _projects
+
+修改navigation.yml中 Projects的url /talks/ --> /projects/
+
+projects.html:  permalink修改为/projects；{% for post in site.talks reversed %}修改为{% for post in site.projects reversed %}
+
+_config.yml :
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+type修改为projects
+
+  projects:
+    output: true
+    permalink: /:collection/:path/
+修改为projects
+
