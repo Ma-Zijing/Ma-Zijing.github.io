@@ -23,8 +23,8 @@ My name is Zijing Ma (马子靖). I am currently working as a Big Data Developme
 -->
 
 # Education
-- Sep 2020 - Jun 2023: Central South University, MSc, Computer Science and Technology
-- Sep 2016 - Jun 2020: South China Agricultural University, BSc, Computer Science and Technology
+- Sep 2020 - Jun 2023: Central South University, MEng in Computer Science and Technology
+- Sep 2016 - Jun 2020: South China Agricultural University, BSc in Computer Science and Technology
 
 # Research Interests
 - Wireless Sensing 
