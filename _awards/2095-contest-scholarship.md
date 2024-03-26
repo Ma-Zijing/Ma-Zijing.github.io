@@ -1,15 +1,12 @@
 ---
-title: "Conference Reviewers"
+title: "Contest and Scholarship"
 collection: teaching
 type: "Talk"
-permalink: /services/2094-Reviewer
+permalink: /awards/2095-contest-scholarship
 #venue: "University 1, Department"
 #date: 2014-01-01
 #location: "City, Country"
 ---
 
-## Conference Reviewers
-- Globecom
-- WASA
-- MSN
-- ICA3PP
+## Contest and Scholarship
+
