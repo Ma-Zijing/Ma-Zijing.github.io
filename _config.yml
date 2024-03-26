@@ -199,7 +199,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  services:
     output: true
     permalink: /:collection/:path/
   publications:
