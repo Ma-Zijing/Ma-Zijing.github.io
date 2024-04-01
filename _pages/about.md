@@ -17,6 +17,10 @@ redirect_from:
 
 My name is Zijing Ma (马子靖). I am currently working as a Big Data Development Engineer at China Unicom Software Research Institute. I received my Master's degree from the School of Computer Science and Engineering at Central South University (CSU), under the guidance of Professor [Shigeng Zhang](https://faculty.csu.edu.cn/zhangshigeng/en/index.htm). Prior to that, I completed my Bachelor's degree in 2020 at South China Agricultural University (SCAU), where I was mentored by Associate Professor Shuangjuan Li.
 
+#### email
+- mazijingscau@hotmail.com (**active**)
+- ~~mazijingcsu@csu.edu.cn (**deprecated**)~~
+
 <!-- [<font color="#B22222">Highlight</font>] I am looking for a PhD position to start in 2024 Spring/Fall!  -->
 <!--
 <font color="Red">[Highlight]</font> I am looking for a PhD position to start in 2024 Spring/Fall!
