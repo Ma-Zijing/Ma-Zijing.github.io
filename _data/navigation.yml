@@ -6,13 +6,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /talks/
+#  - title: "Projects"
+#    url: /projects/
 
-  - title: "Services"
-    url: /services/
+#  - title: "Services"
+#    url: /services/
 
-#  - title: "Portfolio"
+  - title: "Awards"
+    url: /awards/
+
+#  - title: "portfolio"
 #    url: /portfolio/
 
 #  - title: "Blog Posts"
