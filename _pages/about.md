@@ -33,14 +33,16 @@ where I was mentored by Associate Professor Shuangjuan Li.
 -->
 
 # Education
+- May 2024 - Cur: The Hong Kong Polytechnic University, Doctor of Philosophy
 - Sep 2020 - Jun 2023: Central South University, MSc in Computer Science and Technology
 - Sep 2016 - Jun 2020: South China Agricultural University, BSc in Computer Science and Technology
 
 # Research Interests
-- Wireless Sensing 
+- Wireless/Wearable Sensing 
 - Mobile Computing 
 - Human-computer Interaction
-- IoT Security
+- IoT Security and Privacy
+- Large Language Model
 
 
 <!-- ## CV
@@ -48,6 +50,8 @@ My latest CV is [here](https://ma-zijing.github.io/file/My_Curriculum_Vitae.pdf)
 
 
 # News
+- May 2024: I will pursue the PhD degree in The Hong Kong Polytechnic University, 
+advised by Professor [Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/)!  
 - Jul 2023: I will work at China Unicom Software Research Institute as a Big Data Development Engineer.
 - May 2023: I successfully defended my MS thesis! 
 - Oct 2022：Our paper **RF-Siamese: Approaching Accurate RFID Gesture Recognition With One Sample** is accepted by IEEE Transactions on Mobile Computing (TMC).
