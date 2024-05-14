@@ -14,7 +14,7 @@ redirect_from:
 
 [//]: # (## Bio)
 
-My name is Zijing Ma (马子靖). I am currently a first-year Ph.D. student at The Hong Kong Polytechinic University (PolyU),
+My name is Zijing Ma (马子靖). I am currently a first-year Ph.D. student at The Hong Kong Polytechnic University (PolyU),
 under the supervision of Professor [Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). 
 I received my Master's degree from the School of Computer Science and Engineering at 
 Central South University (CSU), under the supervision of 
