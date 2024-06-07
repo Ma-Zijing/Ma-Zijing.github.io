@@ -38,11 +38,11 @@ where I was advised by Associate Professor Shuangjuan Li.
 - Sep 2016 - Jun 2020: South China Agricultural University, BSc in Computer Science and Technology
 
 # Research Interests
+- Large Language Model
 - Wireless/Wearable Sensing 
 - Mobile Computing 
 - Human-computer Interaction
 - IoT Security and Privacy
-- Large Language Model
 
 
 <!-- ## CV
