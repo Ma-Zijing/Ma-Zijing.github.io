@@ -9,7 +9,6 @@ permalink: /services/2094-Reviewer
 ---
 
 ## Conference Reviewers
-- IMWUT (invited)
 - Globecom
 - WASA
 - MSN
