@@ -25,7 +25,7 @@ where I was advised by Associate Professor Shuangjuan Li.
 ### email
 - zijing.ma@connect.polyu.hk (**active**)
 - mazijingscau@hotmail.com (**active**)
-- ~~mazijingcsu@csu.edu.cn (**deprecated**)~~
+<!-- - ~~mazijingcsu@csu.edu.cn (**deprecated**)~~ -->
 
 <!-- [<font color="#B22222">Highlight</font>] I am looking for a PhD position to start in 2024 Spring/Fall!  -->
 <!--
