@@ -8,7 +8,8 @@ permalink: /awards/2095-contest-scholarship
 #location: "City, Country"
 ---
 
-## Contest and Scholarship
+<!-- ## Contest and Scholarship -->
+- Jul 2025: The Outstanding Master's Thesis of Central South University
 - Sep 2022: Huawei Scholarship
 - Sep 2022: Central South University Second Prize Scholarship
 - Sep 2021: Central South University First Prize Scholarship
