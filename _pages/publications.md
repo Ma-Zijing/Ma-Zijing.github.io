@@ -27,3 +27,9 @@ Computer Science and Information Systems, 2020 [<span style="color: #B22222;">[P
 IEEE Wireless Communications and Networking Conference (WCNC) 2020 [<span style="color: #B22222;">[PDF]</span>](../_publications/Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors.pdf)
 - **[PAAP 2019]** **Zijing Ma**, Shuangjuan Li, Longkun Guo, Guohua Wang, "Non-linear K-Barrier Coverage in Mobile Sensor Network", 
 Parallel Architectures, Algorithms and Programming: 10th International Symposium, PAAP 2019
+
+
+### Workshop, Poster, and Demo
+- **[CCS Poster 2025]** **Zijing Ma**, Leming Shen, Xinyu Huang, Yuanqing Zheng 
+"Poster: LLMalware: An LLM-Powered Robust and Efficient Android Malware Detection Framework", 
+The 32nd ACM Conference on Computer and Communications Security (CCS)
