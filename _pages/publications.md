@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## [full list](https://scholar.google.com.hk/citations?user=Fs5jIFoAAAAJ&hl=zh-CN).
+## [Full list](https://scholar.google.com.hk/citations?user=Fs5jIFoAAAAJ&hl=zh-CN)
 
 ### Journal Papers
 - **[TMC]** **Zijing Ma**, Shigeng Zhang, Jia Liu, Xuan Liu, Weiping Wang, Jianxin Wang, Song Guo, 
