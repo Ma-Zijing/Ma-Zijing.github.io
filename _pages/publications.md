@@ -7,7 +7,7 @@ author_profile: true
 
 ## [Full list](https://scholar.google.com.hk/citations?user=Fs5jIFoAAAAJ&hl=zh-CN)
 
-### Journal Papers
+### Journal
 - **[TMC]** **Zijing Ma**, Shigeng Zhang, Jia Liu, Xuan Liu, Weiping Wang, Jianxin Wang, Song Guo, 
 "RF-Siamese: Approaching Accurate RFID Gesture Recognition With One Sample", 
 IEEE Transactions on Mobile Computing (TMC), 2022 [<span style="color: #B22222;">[PDF]</span>](../_publications/RF-Siamese.pdf)
@@ -21,7 +21,7 @@ IEEE Transactions on Mobile Computing (TMC), 2022 [<span style="color: #B22222;"
 Computer Science and Information Systems, 2020 [<span style="color: #B22222;">[PDF]</span>](../_publications/Energy-efficient non-linear k-barrier coverage in mobile sensor network.pdf)   
    
   
-### Conference Papers
+### Conference
 - **[WCNC 2020]** **Zijing Ma**, Shuangjuan Li, Dong Huang, 
 "Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors", 
 IEEE Wireless Communications and Networking Conference (WCNC) 2020 [<span style="color: #B22222;">[PDF]</span>](../_publications/Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors.pdf)
