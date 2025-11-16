@@ -51,8 +51,8 @@ My latest CV is [here](https://ma-zijing.github.io/file/My_Curriculum_Vitae.pdf)
 
 
 # News
-- Nov 2025: My master's thesis has been selected as an Outstanding Master's Thesis of Hunan Province. 😋
-- Jul 2025: My master's thesis has been selected as the Outstanding Master's Thesis of Central South University. 😋
+- Nov 2025: My master's thesis has been selected as an Outstanding Master's Thesis of Hunan Province (湖南省优秀硕士学位论文). 😋
+- Jul 2025: My master's thesis has been selected as the Outstanding Master's Thesis of Central South University (中南大学优秀硕士学位论文). 😋
 - May 2024: I will pursue the PhD degree in The Hong Kong Polytechnic University, 
 advised by Professor [Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/)!  
 - Jul 2023: I will work at China Unicom Software Research Institute as a Big Data Development Engineer.
