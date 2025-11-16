@@ -9,6 +9,7 @@ permalink: /awards/2095-contest-scholarship
 ---
 
 <!-- ## Contest and Scholarship -->
+- Nov 2025: The Outstanding Master's Thesis of Hunan Province
 - Jul 2025: The Outstanding Master's Thesis of Central South University
 - Sep 2022: Huawei Scholarship
 - Sep 2022: Central South University Second Prize Scholarship
