@@ -39,10 +39,10 @@ where I was advised by Associate Professor Shuangjuan Li.
 
 # Research Interests
 - Large Language Model
-- Security and Privacy in LLM Applications
-- Wireless/Wearable Sensing 
-- Mobile Computing 
-- Human-computer Interaction
+- Embodied AI
+- Mobile Security
+- Mobile Computing
+- Wireless Sensing
 
 
 
