@@ -11,4 +11,5 @@ permalink: /services/2094-Reviewer
 ## Journal Reviewers
 - IEEE Internet of Things Journal
 - IEEE Transactions on Antennas & Propagation
+- IEEE Wireless Communication Letters
 
