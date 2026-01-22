@@ -42,7 +42,6 @@ where I was advised by Associate Professor Shuangjuan Li.
 - Embodied AI
 - Mobile Security
 - Mobile Computing
-- Wireless Sensing
 
 
 
