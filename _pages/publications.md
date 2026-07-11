@@ -30,9 +30,9 @@ Computer Science and Information Systems, 2020 [<span style="color: #B22222;">[P
 [//]: # (Research in Attacks, Intrusions and Defenses, 2026.)
 - **[WCNC 2020]** **Zijing Ma**, Shuangjuan Li, Dong Huang, 
 "Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors", 
-IEEE Wireless Communications and Networking Conference (WCNC) 2020 [<span style="color: #B22222;">[PDF]</span>](../_publications/Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors.pdf)
+IEEE Wireless Communications and Networking Conference, 2020 [<span style="color: #B22222;">[PDF]</span>](../_publications/Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors.pdf)
 - **[PAAP 2019]** **Zijing Ma**, Shuangjuan Li, Longkun Guo, Guohua Wang, "Non-linear K-Barrier Coverage in Mobile Sensor Network", 
-Parallel Architectures, Algorithms and Programming: 10th International Symposium, PAAP 2019
+Parallel Architectures, Algorithms and Programming: 10th International Symposium, 2019
 
 
 ### Workshop, Poster, and Demo
