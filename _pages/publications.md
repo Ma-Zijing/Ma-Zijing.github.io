@@ -7,6 +7,16 @@ author_profile: true
 
 ## [Full list](https://scholar.google.com.hk/citations?user=Fs5jIFoAAAAJ&hl=zh-CN)
 
+### Conference
+- **[RAID 2026]** **Zijing Ma**, Leming Shen, Xinyu Huang, Kai Zhou, Yuanqing Zheng, 
+"Concept Drifts, Detector Evolves: Malware Detection Made Easy with LLMalware", 
+29th International Symposium on Research in Attacks, Intrusions and Defenses, 2026. [to appear]
+- **[WCNC 2020]** **Zijing Ma**, Shuangjuan Li, Dong Huang, 
+"Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors", 
+IEEE Wireless Communications and Networking Conference, 2020 [<span style="color: #B22222;">[PDF]</span>](../_publications/Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors.pdf)
+- **[PAAP 2019]** **Zijing Ma**, Shuangjuan Li, Longkun Guo, Guohua Wang, "Non-linear K-Barrier Coverage in Mobile Sensor Network", 
+Parallel Architectures, Algorithms and Programming: 10th International Symposium, 2019
+
 ### Journal
 - **[TMC]** **Zijing Ma**, Shigeng Zhang, Jia Liu, Xuan Liu, Weiping Wang, Jianxin Wang, Song Guo, 
 "RF-Siamese: Approaching Accurate RFID Gesture Recognition With One Sample", 
@@ -18,21 +28,7 @@ IEEE Transactions on Mobile Computing (TMC), 2022 [<span style="color: #B22222;"
 "Hearme: Accurate and real-time lip reading based on commercial rfid devices", 
 IEEE Transactions on Mobile Computing (TMC), 2022 [<span style="color: #B22222;">[PDF]</span>](../_publications/HearMe_Accurate_and_Real-time_Lip_Reading_based_on_Commercial_RFID_Devices.pdf)
 - **[CSIS]** **Zijing Ma**, Shuangjuan Li, Longkun Guo, Guohua Wang, "Energy-efficient non-linear k-barrier coverage in mobile sensor network",
-Computer Science and Information Systems, 2020 [<span style="color: #B22222;">[PDF]</span>](../_publications/Energy-efficient non-linear k-barrier coverage in mobile sensor network.pdf)   
-   
-  
-### Conference
-
-[//]: # (- **[RAID 2026]** **Zijing Ma**, Leming Shen, Xinyu Huang, Kai Zhou, Yuanqing Zheng, )
-
-[//]: # ("Concept Drifts, Detector Evolves: Malware Detection Made Easy with LLMalware", 29th International Symposium on)
-
-[//]: # (Research in Attacks, Intrusions and Defenses, 2026.)
-- **[WCNC 2020]** **Zijing Ma**, Shuangjuan Li, Dong Huang, 
-"Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors", 
-IEEE Wireless Communications and Networking Conference, 2020 [<span style="color: #B22222;">[PDF]</span>](../_publications/Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors.pdf)
-- **[PAAP 2019]** **Zijing Ma**, Shuangjuan Li, Longkun Guo, Guohua Wang, "Non-linear K-Barrier Coverage in Mobile Sensor Network", 
-Parallel Architectures, Algorithms and Programming: 10th International Symposium, 2019
+Computer Science and Information Systems, 2020 [<span style="color: #B22222;">[PDF]</span>](../_publications/Energy-efficient non-linear k-barrier coverage in mobile sensor network.pdf)
 
 
 ### Workshop, Poster, and Demo
