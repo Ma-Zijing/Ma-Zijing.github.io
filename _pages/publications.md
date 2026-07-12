@@ -34,4 +34,4 @@ Computer Science and Information Systems, 2020. [<span style="color: #B22222;">[
 ### Workshop, Poster, and Demo
 - **[CCS Poster 2025]** **Zijing Ma**, Leming Shen, Xinyu Huang, Yuanqing Zheng 
 "Poster: LLMalware: An LLM-Powered Robust and Efficient Android Malware Detection Framework", 
-the 32nd ACM Conference on Computer and Communications Security, 2025.
+ACM Conference on Computer and Communications Security, 2025.
