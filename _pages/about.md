@@ -50,6 +50,7 @@ My latest CV is [here](https://ma-zijing.github.io/file/My_Curriculum_Vitae.pdf)
 
 
 # News
+- Jul 2026：Our paper **Concept Drifts, Detector Evolves: Malware Detection Made Easy with LLMalware** is accepted by RAID 2026! See you in Lancaster!
 - Nov 2025: My master's thesis has been selected as an Outstanding Master's Thesis of Hunan Province (湖南省优秀硕士学位论文). 😋
 - Jul 2025: My master's thesis has been selected as the Outstanding Master's Thesis of Central South University (中南大学优秀硕士学位论文). 😋
 - May 2024: I will pursue the PhD degree in The Hong Kong Polytechnic University, 
