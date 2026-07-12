@@ -50,16 +50,16 @@ My latest CV is [here](https://ma-zijing.github.io/file/My_Curriculum_Vitae.pdf)
 
 
 # News
-- Jul 2026：Our paper **Concept Drifts, Detector Evolves: Malware Detection Made Easy with LLMalware** is accepted by RAID 2026! See you in Lancaster!
+- Jul 2026：Our paper **Concept Drifts, Detector Evolves: Malware Detection Made Easy with LLMalware** is accepted by RAID 2026. See you in Lancaster!
 - Nov 2025: My master's thesis has been selected as an Outstanding Master's Thesis of Hunan Province (湖南省优秀硕士学位论文). 😋
 - Jul 2025: My master's thesis has been selected as the Outstanding Master's Thesis of Central South University (中南大学优秀硕士学位论文). 😋
 - May 2024: I will pursue the PhD degree in The Hong Kong Polytechnic University, 
 advised by Professor [Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/)!  
 - Jul 2023: I will work at China Unicom Software Research Institute as a Big Data Development Engineer.
 - May 2023: I successfully defended my MS thesis! 
-- Oct 2022：Our paper **RF-Siamese: Approaching Accurate RFID Gesture Recognition With One Sample** is accepted by IEEE Transactions on Mobile Computing (TMC).
-- Sep 2022：Our paper **Real-time and Accurate Gesture Recognition with Commercial RFID Devices** is accepted by IEEE Transactions on Mobile Computing (TMC).
-- Sep 2022：Our paper **Hearme: Accurate and real-time lip reading based on commercial RFID devices** is accepted by IEEE Transactions on Mobile Computing (TMC).
+- Oct 2022：Our paper **RF-Siamese: Approaching Accurate RFID Gesture Recognition With One Sample** is accepted by IEEE Transactions on Mobile Computing.
+- Sep 2022：Our paper **Real-time and Accurate Gesture Recognition with Commercial RFID Devices** is accepted by IEEE Transactions on Mobile Computing.
+- Sep 2022：Our paper **Hearme: Accurate and real-time lip reading based on commercial RFID devices** is accepted by IEEE Transactions on Mobile Computing.
 - Sep 2020：I will pursue my master degree in Central South University, advised by Professor [Shigeng Zhang](https://faculty.csu.edu.cn/zhangshigeng/en/index.htm)!
 - Jul 2020：Our paper **Energy-efficient non-linear k-barrier coverage in mobile sensor network** is accepted by Computer Science and Information Systems.
 - Jan 2020：Our paper **Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors** is accepted by IEEE WCNC 2020.
