@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## [Full list](https://scholar.google.com.hk/citations?user=Fs5jIFoAAAAJ&hl=zh-CN)
+## [Full List](https://scholar.google.com.hk/citations?user=Fs5jIFoAAAAJ&hl=zh-CN)
 
 ## Conference
 - **[RAID 2026]** **Zijing Ma**, Leming Shen, Xinyu Huang, Kai Zhou, Yuanqing Zheng, 
