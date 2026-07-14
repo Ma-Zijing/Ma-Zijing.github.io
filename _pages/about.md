@@ -39,8 +39,9 @@ where I was advised by Associate Professor Shuangjuan Li.
 
 # Research Interests
 - Large Language Model
-- Embodied AI
+- LLM Security
 - Mobile Security
+- Embodied AI
 - Mobile Computing
 
 
