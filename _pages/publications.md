@@ -10,7 +10,7 @@ author_profile: true
 ## Conference
 - **[RAID 2026]** **Zijing Ma**, Leming Shen, Xinyu Huang, Kai Zhou, Yuanqing Zheng, 
 "Concept Drifts, Detector Evolves: Malware Detection Made Easy with LLMalware", 
-International Symposium on Research in Attacks, Intrusions and Defenses, 2026. [<span style="color: #B22222;">[PDF]</span>](../_publications/LLMalware_RAID2026.pdf)
+International Symposium on Research in Attacks, Intrusions and Defenses, 2026. ([<span style="color: #B22222;">PDF</span>])(../_publications/LLMalware_RAID2026.pdf)
 - **[WCNC 2020]** **Zijing Ma**, Shuangjuan Li, Dong Huang, 
 "Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors", 
 IEEE Wireless Communications and Networking Conference, 2020. [<span style="color: #B22222;">[PDF]</span>](../_publications/Exact algorithms for barrier coverage with line-based deployed rotatable directional sensors.pdf)
