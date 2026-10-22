@@ -1,0 +1,124 @@
+/* Services and awards archives share the homepage and publications rhythm. */
+
+#main.profile-list-layout {
+  margin-top: 2.5em;
+}
+
+#main.profile-list-layout .page__title {
+  margin-bottom: 0.5rem;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2rem;
+  line-height: 1.2;
+}
+
+#main.profile-list-layout .profile-list-content {
+  margin-top: 1.5rem;
+  max-width: 44rem;
+  font-family: $sans-serif;
+  line-height: 1.6;
+}
+
+#main.profile-list-layout .profile-list-group + .profile-list-group {
+  margin-top: 4rem;
+}
+
+#main.profile-list-layout .profile-list-group h2 {
+  margin: 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e3e9ec;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.5rem;
+  line-height: 1.25;
+}
+
+#main.profile-list-layout .profile-list-group ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#main.profile-list-layout .profile-list-group li {
+  margin: 0;
+  padding: 0.95rem 0;
+  border-bottom: 1px solid #e3e9ec;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+#main.profile-list-layout .profile-list-group li:last-child {
+  border-bottom: 0;
+}
+
+#main.profile-list-layout .awards-content li {
+  display: grid;
+  grid-template-columns: 6.5rem minmax(0, 1fr);
+  gap: 1rem;
+}
+
+#main.profile-list-layout .awards-content time {
+  color: #216478;
+  font-size: 0.875rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+#main.profile-list-layout .awards-content .award-description {
+  min-width: 0;
+}
+
+#main.profile-list-layout .profile-list-content a,
+#main.profile-list-layout .profile-list-content a:visited {
+  color: #216478;
+}
+
+#main.profile-list-layout .profile-list-content a:hover,
+#main.profile-list-layout .profile-list-content a:focus {
+  color: #174858;
+}
+
+#main.profile-list-layout .profile-list-content a:focus-visible {
+  outline: 2px solid #216478;
+  outline-offset: 3px;
+}
+
+#main.profile-list-layout .sidebar p,
+#main.profile-list-layout .sidebar li,
+#main.profile-list-layout .sidebar .author__urls-wrapper {
+  font-family: $sans-serif;
+}
+
+#main.profile-list-layout .sidebar .author__avatar img {
+  margin-bottom: 0.8rem;
+  box-shadow: 0 3px 12px rgba(30, 57, 69, 0.12);
+}
+
+#main.profile-list-layout .sidebar .author__name:empty {
+  display: none;
+}
+
+#main.profile-list-layout .sidebar .author__urls-wrapper {
+  cursor: default;
+}
+
+#main.profile-list-layout .sidebar .author__urls a {
+  display: inline-block;
+  width: fit-content;
+  margin-bottom: 0.35rem;
+  font-family: $sans-serif;
+  font-size: 0.875rem;
+}
+
+@media screen and (max-width: 600px) {
+  #main.profile-list-layout .page__title {
+    font-size: 1.8rem;
+  }
+
+  #main.profile-list-layout .profile-list-group h2 {
+    font-size: 1.35rem;
+  }
+
+  #main.profile-list-layout .awards-content li {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+  }
+}

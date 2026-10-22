@@ -5,9 +5,10 @@ permalink: /services/
 author_profile: true
 ---
 
-{% include base_path %}
-
-<!--# 修改页面名，这里site.xxxx也需要修改-->
-{% for post in site.services reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<div class="profile-list-content services-content">
+  {% for post in site.services reversed %}
+    <section class="profile-list-group" aria-label="{{ post.title | escape }}">
+      {{ post.content | markdownify }}
+    </section>
+  {% endfor %}
+</div>

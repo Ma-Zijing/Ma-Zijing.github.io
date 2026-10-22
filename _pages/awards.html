@@ -5,9 +5,11 @@ permalink: /awards/
 author_profile: true
 ---
 
-{% include base_path %}
-
-<!--# 修改页面名，这里site.xxxx也需要修改-->
-{% for post in site.awards reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<div class="profile-list-content awards-content">
+  {% for post in site.awards reversed %}
+    <section class="profile-list-group" aria-labelledby="award-group-{{ forloop.index }}">
+      <h2 id="award-group-{{ forloop.index }}">{{ post.title }}</h2>
+      {{ post.content | markdownify }}
+    </section>
+  {% endfor %}
+</div>
