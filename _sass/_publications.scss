@@ -33,7 +33,7 @@
 }
 
 #main.publications-layout .publication-group + .publication-group {
-  margin-top: 2.2rem;
+  margin-top: 3.2rem;
 }
 
 #main.publications-layout .publication-group h2 {
@@ -77,16 +77,13 @@
 }
 
 #main.publications-layout .publication-meta {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  gap: 0.4rem 0.6rem;
   margin: 0;
   font-size: 0.85rem;
 }
 
 #main.publications-layout .publication-venue-tag {
-  flex: 0 0 auto;
+  display: inline-block;
+  margin-right: 0.6rem;
   padding: 0.1rem 0.4rem;
   border: 1px solid #d9e5e9;
   border-radius: 4px;
@@ -101,13 +98,9 @@
   font-style: italic;
 }
 
-#main.publications-layout .publication-actions {
-  margin: 0.7rem 0 0;
-  line-height: 1;
-}
-
 #main.publications-layout a.publication-pdf {
   display: inline-block;
+  margin-left: 0.5rem;
   padding: 0.25rem 0.65rem;
   border: 1px solid #b4cbd3;
   border-radius: 4px;
@@ -115,6 +108,8 @@
   font-weight: 600;
   line-height: 1.4;
   text-decoration: none;
+  vertical-align: baseline;
+  white-space: nowrap;
 }
 
 #main.publications-layout a.publication-pdf:hover {
