@@ -58,7 +58,12 @@
       display: none;
     }
 
+    .author__urls-wrapper {
+      cursor: default;
+    }
+
     .author__urls a {
+      width: fit-content;
       margin-bottom: 0.35rem;
       font-family: $sans-serif;
       font-size: 0.875rem;
