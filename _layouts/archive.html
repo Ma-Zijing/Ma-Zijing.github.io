@@ -12,7 +12,7 @@ layout: default
   {% endunless %}
 {% endif %}
 
-<div id="main" role="main">
+<div id="main" role="main"{% if page.url == "/publications/" %} class="publications-layout"{% endif %}>
   {% include sidebar.html %}
 
   <div class="archive">
