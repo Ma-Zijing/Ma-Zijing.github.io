@@ -60,7 +60,7 @@ author_profile: true
     <h2 id="workshop-poster-demo">Workshop, Poster, and Demo</h2>
     <ul class="publication-list">
       <li class="publication-entry">
-        <h3 class="publication-title">Poster: LLMalware: An LLM-Powered Robust and Efficient Android Malware Detection Framework</h3>
+        <h3 class="publication-title">LLMalware: An LLM-Powered Robust and Efficient Android Malware Detection Framework</h3>
         <p class="publication-authors"><strong>Zijing Ma</strong>, Leming Shen, Xinyu Huang, Yuanqing Zheng</p>
         <p class="publication-meta"><span class="publication-venue-tag">CCS Poster 2025</span><span class="publication-venue">ACM Conference on Computer and Communications Security</span></p>
       </li>
