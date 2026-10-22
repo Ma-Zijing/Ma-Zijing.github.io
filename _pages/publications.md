@@ -44,7 +44,7 @@ author_profile: true
         <p class="publication-meta"><span class="publication-venue-tag">TMC 2022</span><span class="publication-venue">IEEE Transactions on Mobile Computing</span> <a class="publication-pdf" href="{{ '/publications/Real-time_and_Accurate_Gesture_Recognition_with_Commercial_RFID_Devices.pdf' | relative_url | uri_escape }}" aria-label="PDF: Real-time and Accurate Gesture Recognition with Commercial RFID Devices">PDF</a></p>
       </li>
       <li class="publication-entry">
-        <h3 class="publication-title">Hearme: Accurate and real-time lip reading based on commercial rfid devices</h3>
+        <h3 class="publication-title">Hearme: Accurate and real-time lip reading based on commercial RFID devices</h3>
         <p class="publication-authors">Shigeng Zhang, <strong>Zijing Ma</strong>, Kaixuan Lu, Xuan Liu, Jia Liu, Song Guo, Albert Y Zomaya, Jian Zhang, Jianxin Wang</p>
         <p class="publication-meta"><span class="publication-venue-tag">TMC 2022</span><span class="publication-venue">IEEE Transactions on Mobile Computing</span> <a class="publication-pdf" href="{{ '/publications/HearMe_Accurate_and_Real-time_Lip_Reading_based_on_Commercial_RFID_Devices.pdf' | relative_url | uri_escape }}" aria-label="PDF: Hearme: Accurate and real-time lip reading based on commercial rfid devices">PDF</a></p>
       </li>
