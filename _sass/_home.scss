@@ -64,13 +64,6 @@
       font-size: 0.875rem;
     }
 
-    @include breakpoint($large) {
-      top: $masthead-height + 40px;
-    }
-
-    @media screen and (min-width: 1024px) {
-      padding-top: 0;
-    }
   }
 
   .home-education,
