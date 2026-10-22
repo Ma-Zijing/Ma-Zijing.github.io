@@ -53,6 +53,7 @@
   display: grid;
   grid-template-columns: 6.5rem minmax(0, 1fr);
   gap: 1rem;
+  align-items: center;
 }
 
 #main.profile-list-layout .awards-content time {
