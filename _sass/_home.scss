@@ -1,0 +1,148 @@
+/* Home page typography and content layout */
+
+#main.home-layout {
+  margin-top: 2.5em;
+
+  .page__title,
+  .page__content h1,
+  .page__content h2,
+  .page__content h3 {
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  .page__title {
+    margin-bottom: 0.8em;
+    font-size: 2rem;
+  }
+
+  .page__content {
+    font-family: $sans-serif;
+    line-height: 1.65;
+
+    h1 {
+      margin: 2.2rem 0 1rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 1px solid $border-color;
+      font-size: 1.5rem;
+    }
+
+    h3 {
+      margin: 1.5rem 0 0.6rem;
+      font-size: 1.15rem;
+    }
+
+    a,
+    a:visited {
+      color: #216478;
+    }
+
+    a:hover,
+    a:focus {
+      color: #174858;
+    }
+  }
+
+  .sidebar {
+    p,
+    li,
+    .author__urls-wrapper {
+      font-family: $sans-serif;
+    }
+
+    .author__avatar img {
+      margin-bottom: 0.8rem;
+      box-shadow: 0 3px 12px rgba(30, 57, 69, 0.12);
+    }
+
+    .author__name:empty {
+      display: none;
+    }
+
+    .author__urls a {
+      margin-bottom: 0.35rem;
+      font-family: $sans-serif;
+      font-size: 0.875rem;
+    }
+
+    @media screen and (min-width: 1024px) {
+      padding-top: 0;
+    }
+  }
+
+  .home-education,
+  .home-interests,
+  .home-news {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .home-education li {
+    display: grid;
+    grid-template-columns: 11.5rem minmax(0, 1fr);
+    gap: 1.25rem;
+    padding: 0.7rem 0;
+    border-bottom: 1px solid $border-color;
+  }
+
+  .home-education__date {
+    color: #56636a;
+    font-size: 0.9rem;
+    white-space: nowrap;
+  }
+
+  .home-interests {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.55rem;
+  }
+
+  .home-interests li {
+    padding: 0.3rem 0.7rem;
+    border: 1px solid #d9e5e9;
+    border-radius: $border-radius;
+    background: #f7fafb;
+    font-size: 0.9rem;
+  }
+
+  .home-news li {
+    display: grid;
+    grid-template-columns: 6.3rem minmax(0, 1fr);
+    gap: 1.1rem;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid $border-color;
+  }
+
+  .home-news time {
+    color: #216478;
+    font-size: 0.9rem;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  .home-news-archive {
+    margin-top: 0.8rem;
+  }
+
+  .home-news-archive summary {
+    width: fit-content;
+    padding: 0.35rem 0;
+    color: #216478;
+    cursor: pointer;
+    font-weight: 600;
+  }
+
+  .home-news-archive summary:hover,
+  .home-news-archive summary:focus {
+    color: #174858;
+    text-decoration: underline;
+  }
+
+  @media screen and (max-width: 600px) {
+    .home-education li,
+    .home-news li {
+      grid-template-columns: 1fr;
+      gap: 0.2rem;
+    }
+  }
+}
