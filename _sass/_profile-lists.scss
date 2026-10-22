@@ -67,6 +67,10 @@
   min-width: 0;
 }
 
+#main.profile-list-layout .awards-content .award-translation {
+  white-space: nowrap;
+}
+
 #main.profile-list-layout .profile-list-content a,
 #main.profile-list-layout .profile-list-content a:visited {
   color: #216478;

@@ -8,8 +8,8 @@ permalink: /awards/2095-contest-scholarship
 #location: "City, Country"
 ---
 
-- <time datetime="2025-11">Nov 2025:</time> <span class="award-description">The Outstanding Master's Thesis of Hunan Province (湖南省优秀硕士学位论文)</span>
-- <time datetime="2025-07">Jul 2025:</time> <span class="award-description">The Outstanding Master's Thesis of Central South University (中南大学优秀硕士学位论文)</span>
+- <time datetime="2025-11">Nov 2025:</time> <span class="award-description">The Outstanding Master's Thesis of Hunan Province <span class="award-translation">(湖南省优秀硕士学位论文)</span></span>
+- <time datetime="2025-07">Jul 2025:</time> <span class="award-description">The Outstanding Master's Thesis of Central South University <span class="award-translation">(中南大学优秀硕士学位论文)</span></span>
 - <time datetime="2022-09">Sep 2022:</time> <span class="award-description">Huawei Scholarship</span>
 
 [//]: # (- <time datetime="2022-09">Sep 2022:</time> <span class="award-description">Central South University Second Prize Scholarship</span>)
