@@ -43,7 +43,6 @@ where I was advised by Associate Professor Shuangjuan Li.
 # Research Interests
 
 <ul class="home-interests">
-  <li>Large Language Model</li>
   <li>LLM Security</li>
   <li>Mobile Security</li>
   <li>Embodied AI</li>
