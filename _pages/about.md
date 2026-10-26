@@ -46,7 +46,7 @@ where I was advised by Associate Professor Shuangjuan Li.
   <li>LLM Security</li>
   <li>Mobile Security</li>
   <li>Embodied AI</li>
-  <li>Mobile Computing</li>
+[//]: # (  <li>Mobile Computing</li>)
 </ul>
 
 
